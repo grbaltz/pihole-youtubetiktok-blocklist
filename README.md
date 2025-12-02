@@ -1,3 +1,5 @@
+FORKED FROM ARBENP's REPO: https://github.com/ArbenP/pihole-youtubetiktok-blocklist
+
 # Pi-hole YouTube and TikTok Blocklist
 
 This curated blocklist was developed as part of a project for a client requiring network-level restrictions on YouTube and TikTok. It is designed for use with Pi-hole to help enforce content filtering policies for network management or parental control purposes.
