@@ -1,17 +1,17 @@
-tiktok.com
-www.tiktok.com
-m.tiktok.com
-api.tiktok.com
-v16.tiktokcdn.com
-p16-tiktokcdn-com.akamaized.net
-byteoversea.com
-tiktokv.com
-tik-tokcdn.com
-tiktokcdn.com
-youtube.com
-www.youtube.com
-m.youtube.com
-youtubei.googleapis.com
-youtube.googleapis.com
-youtube-nocookie.com
-youtu.be
+0.0.0.0 tiktok.com
+0.0.0.0 www.tiktok.com
+0.0.0.0 m.tiktok.com
+0.0.0.0 api.tiktok.com
+0.0.0.0 v16.tiktokcdn.com
+0.0.0.0 p16-tiktokcdn-com.akamaized.net
+0.0.0.0 byteoversea.com
+0.0.0.0 tiktokv.com
+0.0.0.0 tik-tokcdn.com
+0.0.0.0 tiktokcdn.com
+0.0.0.0 youtube.com
+0.0.0.0 www.youtube.com
+0.0.0.0 m.youtube.com
+0.0.0.0 youtubei.googleapis.com
+0.0.0.0 youtube.googleapis.com
+0.0.0.0 youtube-nocookie.com
+0.0.0.0 youtu.be
